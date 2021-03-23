@@ -32,7 +32,7 @@ function App() {
               <BodyRoutes />
             </div>
           </Content>
-          <Footer style={{ textAlign: 'center' }}>LPG</Footer>
+          <Footer style={{ textAlign: 'center' }}>Synec</Footer>
         </Layout>
       </Layout>
     </Router>
